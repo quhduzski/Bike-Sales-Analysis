@@ -21,6 +21,8 @@
 This data analysis project aims to give an accurate insight into the regional sales of a bike company in the United States of America, the company wants to know which states/regions have purchased more bikes over the years.
 This project seeks to analyse every aspect of the data from purchases to orders so as to identify trends and patterns to draw a valid conclusion and make reasonable decisions from recommendations based on the findings.
 
+![PowerBI](https://github.com/quhduzski/Sales-Analysis/assets/89488315/a198aaf6-d1d4-4cde-a563-75766f12906a)
+
 ### Data Source
 ---
 The data used to carry out the analysis of this project was derived from a secondary source (online) "Sale-Analysis.csv" with detailed information on the company's sales from region to region within various years.
