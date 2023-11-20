@@ -23,6 +23,8 @@ This project seeks to analyse every aspect of the data from purchases to orders 
 
 ![PowerBI](https://github.com/quhduzski/Sales-Analysis/assets/89488315/a198aaf6-d1d4-4cde-a563-75766f12906a)
 
+![Dashboard Report](PowerBI.JPG)
+
 ### Data Source
 ---
 The data used to carry out the analysis of this project was derived from a secondary source (online) "Sale-Analysis.csv" with detailed information on the company's sales from region to region within various years.
