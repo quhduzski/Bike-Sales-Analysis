@@ -16,25 +16,25 @@
 
 
 
-### Project Overview
+### Project Overview 
 ---
 This data analysis project aims to give an accurate insight into the regional sales of a bike company in the United States of America, the company wants to know which states/regions have purchased more bikes over the years.
 This project seeks to analyse every aspect of the data from purchases to orders so as to identify trends and patterns to draw a valid conclusion and make reasonable decisions from recommendations based on the findings.
 
-![PowerBI](https://github.com/quhduzski/Sales-Analysis/assets/89488315/a198aaf6-d1d4-4cde-a563-75766f12906a)
 
-![Dashboard Report](PowerBI.JPG)
+![PowerBI](https://github.com/quhduzski/Sales-Analysis/assets/89488315/082c66b3-1af2-450c-928f-37f037d51f7e)
 
-### Data Source
+
+### Data Source 
 ---
 The data used to carry out the analysis of this project was derived from a secondary source (online) "Sale-Analysis.csv" with detailed information on the company's sales from region to region within various years.
 
-### Limitations
+### Limitations 
 ---
 
 The limitations of this analysis include a restricted dataset, the absence of causal relationships, potential shifts in market dynamics, a focus on specific products and regions, lack of contextual information, dependence on data quality, and generalization based on historical trends.
 
-### Tools
+### Tools 
 ---
 The tools used for this project are stated below
 - Excel: [Data Cleaning](https://support.microsoft.com/en-au/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
@@ -42,7 +42,7 @@ The tools used for this project are stated below
 - SQL: [Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - PowerBi: [Dashboard Report](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards)
 
-###  Data Cleaning
+###  Data Cleaning 
 ---
 - Loading and inspection of the data
 - Handling missing values
