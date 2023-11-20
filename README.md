@@ -1,6 +1,6 @@
 # Bike Sales-Analysis
 
-## Table Of Content
+## Table Of Contents
 
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
@@ -86,7 +86,7 @@ The findings from the analysis are as follows:
 In conclusion, the data analysis reveals that the bike company has accumulated a total revenue of $85 million from 1 million orders over the years. California emerges as a significant contributor, leading both in quantity ordered (267,614) and revenue generated (around $17 million). The road-150 bike product stands out as the top revenue-generating item, while the water bottle -30 oz. is the most frequently ordered product. Notably, the year 2015 marks a peak in revenue, reaching $20 million.
 
 #### Recommendations:
-
+---
 1. Focus on California: Given its substantial contribution to both order quantity and revenue, it is advisable to prioritize marketing and sales efforts in California to further capitalize on the strong market presence.
 2. Product Emphasis: Since the road-150 product is the top revenue generator, consider implementing targeted marketing strategies or promotions to enhance its sales further. Additionally, monitor the demand for the water bottle -30 oz. and explore opportunities for increased sales.
 3. Yearly Analysis: Regularly conduct yearly analyses to track trends and identify potential peak periods. Understanding the factors contributing to the revenue peak in 2015 can aid in formulating strategies for future growth.
